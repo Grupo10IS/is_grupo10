@@ -1,0 +1,2 @@
+RF usados:
+RF1, RF2, RF3, RF7, RF22
